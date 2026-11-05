@@ -38,7 +38,7 @@ const info = [
         icon: MapPin,
         label: "Location",
         value: "Bhilai, Chhattisgarh, India",
-        href: null,
+        href: "https://www.google.com/maps/search/?api=1&query=Bhilai%2C%20Chhattisgarh%2C%20India",
     },
 ];
 
